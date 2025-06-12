@@ -47,9 +47,8 @@
 
 ---  
 
-### CONTACT  
+### CONTACT  (Don't be shy 😉)
 
-- GitHub: [github.com/nathan-pv](https://github.com/Robrtooo)
 - Professional address: [nathan.palvadeau.pro@proton.me]()  
 - LinkedIn: [https://www.linkedin.com/in/nathan-palvadeau]()  
 - Discord: fnyx.

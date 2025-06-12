@@ -12,9 +12,9 @@
 - Cloud security and Active Directory security enthusiast  
 
 ### Hard Practicing on platforms:  
-[![TryHackMe](https://tryhackme.com/p/Fnyx)  
-[![RootMe](https://www.root-me.org/Fnyx)  
-[![HackTheBox](https://app.hackthebox.com/users/2003940)  
+[TryHackMe](https://tryhackme.com/p/Fnyx)  
+[RootMe](https://www.root-me.org/Fnyx)  
+[HackTheBox](https://app.hackthebox.com/users/2003940)  
 
 ---  
 

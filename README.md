@@ -12,9 +12,9 @@ Blue Team Enjoyer | Cloud Security Enthousiast | Python Developer | -> soon Dev(
 - Cloud security and Active Directory security enthusiast
 
 ### Hard Practicing on plateforms !:
-**(TryHackme)[https://tryhackme.com/p/Fnyx] **
-**(Root-Me)[https://www.root-me.org/Fnyx] **
-**(HackTheBox)[https://app.hackthebox.com/users/2003940] **
+** (TryHackme)[https://tryhackme.com/p/Fnyx] **
+** (Root-Me)[https://www.root-me.org/Fnyx] **
+** (HackTheBox)[https://app.hackthebox.com/users/2003940] **
 
 ---  
 

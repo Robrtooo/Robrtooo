@@ -1,61 +1,69 @@
-# WHOAMI ?
+# Nathan Palvadeau  
 
-## Cybersecurity Student @École 2600
+## Cybersecurity Student @École 2600  
 
-Python Developer | DevOps Practitioner | Web Security Enthusiast
+Python Developer | DevOps Engineer | Cloud Security Specialist  
 
----
+---  
 
-### WHOAMI
+### WHOAMI  
 
-- 20-year-old cybersecurity student and developer
-- Focused on Python development, DevOps (Docker/Kubernetes), and web security
-- Constantly exploring new technologies and security methodologies
+- 20-year-old cybersecurity student and developer  
+- Focused on secure development and infrastructure  
+- Cloud security and Active Directory security enthusiast  
 
----
+---  
 
-### LANGUAGES AND FRAMEWORKS
+### LANGUAGES AND FRAMEWORKS  
 
-#### Core Languages:
-[![Python](https://...)]() [![JavaScript](https://...)]() [![SQL](https://...)]()  
-[![PHP](https://...)]() [![C](https://...)]() [![C++](https://...)]()
+![Python](https://skillicons.dev/icons?i=python)
+![TypeScript](https://skillicons.dev/icons?i=typescript)  
+![JavaScript](https://skillicons.dev/icons?i=javascript)  
+![Bash](https://skillicons.dev/icons?i=bash)  
+![PowerShell](https://skillicons.dev/icons?i=powershell)  
+![SQL](https://skillicons.dev/icons?i=mysql)  
+![PHP](https://skillicons.dev/icons?i=php)  
+![C](https://skillicons.dev/icons?i=c)  
+![C++](https://skillicons.dev/icons?i=cpp)  
+![AWS](https://skillicons.dev/icons?i=aws)  
+![Azure](https://skillicons.dev/icons?i=azure)  
+![GCP](https://skillicons.dev/icons?i=gcp)  
+![Docker](https://skillicons.dev/icons?i=docker)  
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)  
+![MongoDB](https://skillicons.dev/icons?i=mongodb)  
 
-#### Frameworks & Technologies:
-[![Docker](https://...)]() [![Kubernetes](https://...)]() [![Flask](https://...)]()
+---  
 
----
+### SECURITY TOOLS  
 
-### IDE AND TOOLS
+![Wireshark](https://skillicons.dev/icons?i=wireshark)  
+![Burp Suite](https://skillicons.dev/icons?i=burpsuite)  
+BloodHound  
+![Metasploit](https://skillicons.dev/icons?i=metasploit)  
 
-[![VS Code](https://...)]() [![PyCharm](https://...)]()  
-[![Git](https://...)]() [![Wireshark](https://...)]() [![Burp Suite](https://...)]()
+---  
 
----
+### IDE AND TOOLS  
 
-### SERVICES
+![VS Code](https://skillicons.dev/icons?i=vscode)  
+![PyCharm](https://skillicons.dev/icons?i=pycharm)  
+![Git](https://skillicons.dev/icons?i=git)  
 
-- Secure web development
-- Containerization and deployment solutions
-- Security auditing and penetration testing
-- Scripting and automation
+---  
 
----
+### OS  
 
-### OS
+![Debian](https://skillicons.dev/icons?i=debian)  
+![Tails](https://skillicons.dev/icons?i=tails)  
+![Fedora](https://skillicons.dev/icons?i=fedora)  
+![Arch](https://skillicons.dev/icons?i=arch)  
+![Kali](https://skillicons.dev/icons?i=kali)  
+BlackArch  
 
-[![Kali Linux](https://...)]() [![Windows](https://...)]()  
-[![Ubuntu](https://...)]() [![Other Linux Distros](https://...)]()
+---  
 
----
+### CONTACT  
 
-### CONTACT
-
-- GitHub: [github.com/nathan-pv](https://github.com/nathan-pv)
-- Email: [your.email@domain.com]()
-- LinkedIn: [linkedin.com/in/nathan-pv]()
-
----
-
-#### Current Setup:
-- **Laptop**: Dell Precision 3571 (i7-1270M, 32GB DDR5, RTX A1000)
-- **Desktop**: Custom build (i9-5900K, 32GB DDR4, GTX 1080 6GB)
+- GitHub: [github.com/nathan-pv](https://github.com/nathan-pv)  
+- Email: [your.email@domain.com]()  
+- LinkedIn: [linkedin.com/in/nathan-pv]()  

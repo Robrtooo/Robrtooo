@@ -1,42 +1,61 @@
+# WHOAMI ?
 
-# 👋 Salut, moi c’est Nathan Palvadeau
+## Cybersecurity Student @École 2600
 
-🎓 Étudiant en cybersécurité à [l'École 2600](https://www.ecole2600.fr/), 20 ans.  
-🔐 Passionné par l’**offensive security**, l’**automatisation** et les systèmes **DevOps**.
-
-## 🛠️ Compétences techniques
-
-### Langages & outils principaux
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-
-> Je travaille principalement sous **Linux**, avec une préférence pour les environnements bare-metal ou virtualisés.
+Python Developer | DevOps Practitioner | Web Security Enthusiast
 
 ---
 
-## 📊 Statistiques GitHub
+### WHOAMI
 
-![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanpalvadeau&layout=compact&langs_count=8&theme=default)
-
-> *Ces stats se basent sur mes dépôts publics.*
-
----
-
-## 🚀 Objectifs actuels
-
-- Approfondir mes connaissances en **sécurité offensive** et **analyse de vulnérabilités**
-- Automatiser des tâches de pentest/red teaming
-- Continuer à apprendre des technos Cloud et DevOps
+- 20-year-old cybersecurity student and developer
+- Focused on Python development, DevOps (Docker/Kubernetes), and web security
+- Constantly exploring new technologies and security methodologies
 
 ---
 
-## 🔗 Liens utiles
+### LANGUAGES AND FRAMEWORKS
 
-- (à remplir) [Portfolio / Site perso](#)
-- (à remplir) [LinkedIn](#)
+#### Core Languages:
+[![Python](https://...)]() [![JavaScript](https://...)]() [![SQL](https://...)]()  
+[![PHP](https://...)]() [![C](https://...)]() [![C++](https://...)]()
+
+#### Frameworks & Technologies:
+[![Docker](https://...)]() [![Kubernetes](https://...)]() [![Flask](https://...)]()
+
+---
+
+### IDE AND TOOLS
+
+[![VS Code](https://...)]() [![PyCharm](https://...)]()  
+[![Git](https://...)]() [![Wireshark](https://...)]() [![Burp Suite](https://...)]()
+
+---
+
+### SERVICES
+
+- Secure web development
+- Containerization and deployment solutions
+- Security auditing and penetration testing
+- Scripting and automation
+
+---
+
+### OS
+
+[![Kali Linux](https://...)]() [![Windows](https://...)]()  
+[![Ubuntu](https://...)]() [![Other Linux Distros](https://...)]()
+
+---
+
+### CONTACT
+
+- GitHub: [github.com/nathan-pv](https://github.com/nathan-pv)
+- Email: [your.email@domain.com]()
+- LinkedIn: [linkedin.com/in/nathan-pv]()
+
+---
+
+#### Current Setup:
+- **Laptop**: Dell Precision 3571 (i7-1270M, 32GB DDR5, RTX A1000)
+- **Desktop**: Custom build (i9-5900K, 32GB DDR4, GTX 1080 6GB)

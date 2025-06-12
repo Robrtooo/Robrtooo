@@ -1,3 +1,4 @@
+
 # 👋 Salut, moi c’est Nathan Palvadeau
 
 🎓 Étudiant en cybersécurité à [l'École 2600](https://www.ecole2600.fr/), 20 ans.  
@@ -39,4 +40,3 @@
 
 - (à remplir) [Portfolio / Site perso](#)
 - (à remplir) [LinkedIn](#)
-

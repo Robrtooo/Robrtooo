@@ -26,20 +26,17 @@
 
 ---  
 
-### SECURITY TOOLS  
+### SECURITY TOOLS   
 
-![Wireshark](https://skillicons.dev/icons?i=wireshark)  
-![Burp Suite](https://skillicons.dev/icons?i=burpsuite)  
-BloodHound  
-![Metasploit](https://skillicons.dev/icons?i=metasploit)  
+`Wireshark` `Burp Suite` `BloodHound` `Metasploit` `Impacket`  
+`Cobalt Strike` `Splunk` `Volatility` `Mimikatz` `Zeek`  
+`OWASP ZAP` `SQLmap` `PEASS` `Autopsy` `Wazuh`  
 
 ---  
 
 ### IDE AND TOOLS  
 
-![VS Code](https://skillicons.dev/icons?i=vscode)  
-![PyCharm](https://skillicons.dev/icons?i=pycharm)  
-![Git](https://skillicons.dev/icons?i=git)  
+![VS Code](https://skillicons.dev/icons?i=vscode)  ![PyCharm](https://skillicons.dev/icons?i=pycharm) ![IntelilJ](https://skillicons.dev/icons?i=intellij)   ![Git](https://skillicons.dev/icons?i=git)  
 
 ---  
 

@@ -1,20 +1,20 @@
-# WHOAMI ? 
+# WHOAMI ?  
+
 ## Nathan Palvadeau  
+### Cybersecurity Student @École 2600  
 
-## Cybersecurity Student @École 2600  
-
-Blue Team Enjoyer | Cloud Security Enthousiast | Python Developer | -> soon Dev(sec?)Ops Specialist 
+`Blue Team Enjoyer` | `Cloud Security Enthusiast` | `Python Developer` | `Future Dev(Sec)Ops Specialist`  
 
 - 20-year-old cybersecurity student and developer  
-- Focused on secure development and infrastructure
-- Practicing on few handmade **homelab** (SOC)
-- Interested in Red Teaming to improve on security
-- Cloud security and Active Directory security enthusiast
+- Focused on secure development and infrastructure  
+- Practicing on few handmade **homelab** (SOC)  
+- Interested in Red Teaming to improve security skills  
+- Cloud security and Active Directory security enthusiast  
 
-### Hard Practicing on plateforms !:
-** (TryHackme)[https://tryhackme.com/p/Fnyx] **
-** (Root-Me)[https://www.root-me.org/Fnyx] **
-** (HackTheBox)[https://app.hackthebox.com/users/2003940] **
+### Hard Practicing on platforms:  
+[![TryHackMe](https://skillicons.dev/icons?i=tryhackme)](https://tryhackme.com/p/Fnyx)  
+[![RootMe](https://skillicons.dev/icons?i=rootme)](https://www.root-me.org/Fnyx)  
+[![HackTheBox](https://skillicons.dev/icons?i=hackthebox)](https://app.hackthebox.com/users/2003940)  
 
 ---  
 

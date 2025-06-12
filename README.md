@@ -27,8 +27,8 @@
 
 ### SECURITY TOOLS   
 
-`Wireshark` `Burp Suite` `BloodHound` `Metasploit` `Impacket`  
- `Splunk` `Volatility` `Mimikatz` `Zeek` `Nmap` 
+`Wireshark` `Burp Suite` `BloodHound` `Metasploit` `Impacket`  `Nmap` 
+ `Splunk` `Volatility` `Mimikatz` `Zeek`
 `OWASP ZAP` `SQLmap` `PEASS` `Autopsy` `Wazuh`  
 
 ---  

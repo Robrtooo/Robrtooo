@@ -19,7 +19,7 @@
 
 ### LANGUAGES AND FRAMEWORKS  
 
-![Python](https://skillicons.dev/icons?i=python))  ![Bash](https://skillicons.dev/icons?i=bash)  ![PowerShell](https://skillicons.dev/icons?i=powershell)      ![C#](https://skillicons.dev/icons?i=cs) ![TypeScript](https://skillicons.dev/icons?i=typescript)  ![JavaScript](https://skillicons.dev/icons?i=javascript) ![PHP](https://skillicons.dev/icons?i=php)  ![SQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) 
+![Python](https://skillicons.dev/icons?i=python)  ![Bash](https://skillicons.dev/icons?i=bash)  ![PowerShell](https://skillicons.dev/icons?i=powershell)      ![C#](https://skillicons.dev/icons?i=cs) ![TypeScript](https://skillicons.dev/icons?i=typescript)  ![JavaScript](https://skillicons.dev/icons?i=javascript) ![PHP](https://skillicons.dev/icons?i=php)  ![SQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) 
 
 ![AWS](https://skillicons.dev/icons?i=aws)  ![Azure](https://skillicons.dev/icons?i=azure)  ![GCP](https://skillicons.dev/icons?i=gcp)  ![Docker](https://skillicons.dev/icons?i=docker)  ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)  
 

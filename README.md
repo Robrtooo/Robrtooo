@@ -41,7 +41,7 @@
 ---  
 
 ### OS  
-![Windows](https://skillicons.dev/icons?i=windows)  ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)![Debian](https://skillicons.dev/icons?i=debian) ![Arch](https://skillicons.dev/icons?i=arch) [Kali](https://skillicons.dev/icons?i=kali)  
+![Windows](https://skillicons.dev/icons?i=windows)  ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) ![Kali](https://skillicons.dev/icons?i=kali)  ![Debian](https://skillicons.dev/icons?i=debian) ![Arch](https://skillicons.dev/icons?i=arch) 
  
   
 

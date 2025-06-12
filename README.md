@@ -1,36 +1,28 @@
-# Nathan Palvadeau  
+# WHOAMI ? 
+## Nathan Palvadeau  
 
 ## Cybersecurity Student @École 2600  
 
-Python Developer | DevOps Engineer | Cloud Security Specialist  
-
----  
-
-### WHOAMI  
+Blue Team Enjoyer | Cloud Security Enthousiast | Python Developer | -> soon Dev(sec?)Ops Specialist 
 
 - 20-year-old cybersecurity student and developer  
-- Focused on secure development and infrastructure  
-- Cloud security and Active Directory security enthusiast  
+- Focused on secure development and infrastructure
+- Practicing on few handmade **homelab** (SOC)
+- Interested in Red Teaming to improve on security
+- Cloud security and Active Directory security enthusiast
+
+### Hard Practicing on plateforms !:
+**(TryHackme)[https://tryhackme.com/p/Fnyx] **
+**(Root-Me)[https://www.root-me.org/Fnyx] **
+**(HackTheBox)[https://app.hackthebox.com/users/2003940] **
 
 ---  
 
 ### LANGUAGES AND FRAMEWORKS  
 
-![Python](https://skillicons.dev/icons?i=python)
-![TypeScript](https://skillicons.dev/icons?i=typescript)  
-![JavaScript](https://skillicons.dev/icons?i=javascript)  
-![Bash](https://skillicons.dev/icons?i=bash)  
-![PowerShell](https://skillicons.dev/icons?i=powershell)  
-![SQL](https://skillicons.dev/icons?i=mysql)  
-![PHP](https://skillicons.dev/icons?i=php)  
-![C](https://skillicons.dev/icons?i=c)  
-![C++](https://skillicons.dev/icons?i=cpp)  
-![AWS](https://skillicons.dev/icons?i=aws)  
-![Azure](https://skillicons.dev/icons?i=azure)  
-![GCP](https://skillicons.dev/icons?i=gcp)  
-![Docker](https://skillicons.dev/icons?i=docker)  
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)  
-![MongoDB](https://skillicons.dev/icons?i=mongodb)  
+![Python](https://skillicons.dev/icons?i=python)![TypeScript](https://skillicons.dev/icons?i=typescript)  ![JavaScript](https://skillicons.dev/icons?i=javascript)  ![Bash](https://skillicons.dev/icons?i=bash)  ![PowerShell](https://skillicons.dev/icons?i=powershell)  ![SQL](https://skillicons.dev/icons?i=mysql) ![PHP](https://skillicons.dev/icons?i=php)    ![C#](https://skillicons.dev/icons?i=cs)  ![MongoDB](https://skillicons.dev/icons?i=mongodb) 
+
+![AWS](https://skillicons.dev/icons?i=aws)  ![Azure](https://skillicons.dev/icons?i=azure)  ![GCP](https://skillicons.dev/icons?i=gcp)  ![Docker](https://skillicons.dev/icons?i=docker)  ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)  
 
 ---  
 
@@ -52,13 +44,10 @@ BloodHound
 ---  
 
 ### OS  
+![Windows](https://skillicons.dev/icons?i=windows)  ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)![Debian](https://skillicons.dev/icons?i=debian) ![Arch](https://skillicons.dev/icons?i=arch) [Kali](https://skillicons.dev/icons?i=kali)  
+ 
+  
 
-![Debian](https://skillicons.dev/icons?i=debian)  
-![Tails](https://skillicons.dev/icons?i=tails)  
-![Fedora](https://skillicons.dev/icons?i=fedora)  
-![Arch](https://skillicons.dev/icons?i=arch)  
-![Kali](https://skillicons.dev/icons?i=kali)  
-BlackArch  
 
 ---  
 

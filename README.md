@@ -50,6 +50,6 @@
 ### CONTACT  
 
 - GitHub: [github.com/nathan-pv](https://github.com/Robrtooo)
-- Discord: fnyx.
 - Professional address: [nathan.palvadeau.pro@proton.me]()  
 - LinkedIn: [https://www.linkedin.com/in/nathan-palvadeau]()  
+- Discord: fnyx.

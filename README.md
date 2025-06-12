@@ -36,7 +36,7 @@
 
 ### IDE AND TOOLS  
 
-![VS Code](https://skillicons.dev/icons?i=vscode)  ![PyCharm](https://skillicons.dev/icons?i=pycharm) ![IntelilJ](https://skillicons.dev/icons?i=intellij)   ![Git](https://skillicons.dev/icons?i=git)  
+![VS Code](https://skillicons.dev/icons?i=vscode)  ![PyCharm](https://skillicons.dev/icons?i=pycharm) ![IntelilJ](https://skillicons.dev/icons?i=idea)   ![Git](https://skillicons.dev/icons?i=git)  
 
 ---  
 

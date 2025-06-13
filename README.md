@@ -12,7 +12,7 @@
 
  
 
-### Hard Practicing on platforms:  
+### Hard Training on platforms:  
 [TryHackMe](https://tryhackme.com/p/Fnyx)  |  [RootMe](https://www.root-me.org/Fnyx)  |  [HackTheBox](https://app.hackthebox.com/users/2003940)  
 
 ---  

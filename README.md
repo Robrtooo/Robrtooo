@@ -1,7 +1,7 @@
 # Hi There ! ![Hi](https://user-images.githubusercontent.com/90565815/133890037-10ce40fa-a04a-4711-8807-c3d76673e3a1.gif)
 
 ## 🔐 Who am I ? 
-### Nathan Palvadeau, Cybersecurity Student | soon -> @École 2600  
+### Nathan Palvadeau, Cybersecurity Student |  @École 2600  
 
 `Blue Team Enjoyer` | `Cloud Security Enthusiast` | `Python Developer` | `Future Dev(Sec)Ops Specialist`  
 

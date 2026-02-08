@@ -3,7 +3,7 @@
 ## 🔐 Who am I ? 
 ### Nathan, Cybersecurity Student |  @École 2600  
 
-`Blue Team Enjoyer` | `Cloud Security Enthusiast` | `Python Developer` | `Future Dev(Sec)Ops Specialist`  
+`Blue Team Enjoyer` | `OSINT` | `Cloud Security Enthusiast` | `Python Developer`
 
 - 20-year-old cybersecurity student and developer  
 - Practicing on few handmade **homelab** (SOC)  

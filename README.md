@@ -7,8 +7,8 @@
 
 - 20-year-old cybersecurity student and developer  
 - Practicing on few handmade **homelab** (SOC)  
-- Interested in Red Teaming to improve security skills
-- Cloud security and Active Directory security enthusiast 
+- Cloud security and Active Directory security enthusiast, love to train skills by practicing
+- OSINT Enjoyer
 
  
 

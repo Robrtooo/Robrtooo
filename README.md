@@ -49,6 +49,6 @@
 
 ### CONTACT  (Don't be shy 😉)
 
-- Mail : fnyx.cbr@proton.me
+- Mail : github.clique672@passmail.net
 - Discord: robertoo.oo
 
